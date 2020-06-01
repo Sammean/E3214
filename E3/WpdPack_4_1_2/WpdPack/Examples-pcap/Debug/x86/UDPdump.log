@@ -1,0 +1,8 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  UDPdump.c
+c:\users\j&l\desktop\wpdpack_4_1_2\wpdpack\examples-pcap\udpdump\udpdump.c(148): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  c:\users\j&l\desktop\wpdpack_4_1_2\wpdpack\examples-pcap\udpdump\udpdump.c(148): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\j&l\desktop\wpdpack_4_1_2\wpdpack\examples-pcap\udpdump\udpdump.c(148): note: 缺失的可变参数 1 为格式字符串“%s”所需
+c:\users\j&l\desktop\wpdpack_4_1_2\wpdpack\examples-pcap\udpdump\udpdump.c(292): warning C4189: “length”: 局部变量已初始化但不引用
+UDPdump.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  UDPdump.vcxproj -> C:\Users\J&L\Desktop\WpdPack_4_1_2\WpdPack\Examples-pcap\\Debug\x86\UDPdump.exe
